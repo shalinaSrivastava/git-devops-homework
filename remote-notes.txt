@@ -1,0 +1,9 @@
+Git Remote Practice
+
+In this task, I am learning how Git fetch works.
+
+Git fetch downloads the latest changes from GitHub
+without automatically merging them into my local branch.
+
+This helps developers review remote changes before
+updating their local code.
