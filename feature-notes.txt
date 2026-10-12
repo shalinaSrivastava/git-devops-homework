@@ -1,0 +1,10 @@
+Feature Development Notes
+
+In this project, I am practicing Git branching and
+version control.
+
+Developers create separate branches to work on new
+features without affecting the production branch.
+
+After completing development and testing, changes
+can be merged into the production branch.
