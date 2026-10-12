@@ -1,0 +1,4 @@
+Terraform is an Infrastructure as Code (IaC) tool.
+It helps us create and manage cloud resources using code.
+We can use Terraform to deploy Azure virtual machines,
+virtual networks, and storage accounts.
