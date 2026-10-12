@@ -1,0 +1,1 @@
+Application deployment is the process of making an application available for users. In Azure, we can deploy applications using Azure App Service, Virtual Machines, or Kubernetes. GitHub and CI/CD pipelines help automate the deployment process.
